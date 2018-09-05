@@ -42,6 +42,7 @@ defmodule CadetWeb.Endpoint do
     signing_salt: "d3lEE99u"
   )
 
+  # for local
   plug(CadetWeb.Router)
 
   @doc """

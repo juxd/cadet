@@ -107,4 +107,8 @@ erl_crash.dump
 # VSCode Elixir language support
 .elixir_ls/
 
+# asdf version control
+.tool-versions
+assessment3.zip
+/submission/
 .env
